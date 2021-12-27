@@ -1,5 +1,5 @@
 # Deep learning with pytorch
-this will be a series of different small projects of different deep learning projects, using the popular framework [PyTorch](https://pytorch.org/). 
+this will be a series of different small projects of deep learning, using the popular framework [PyTorch](https://pytorch.org/). 
 
 It'll cover various topics and explore different models and ideas, going from vanilla neural networks, RNNs, CNNs to some of the state-of-the-art techniques like BERT model and much more.
 
